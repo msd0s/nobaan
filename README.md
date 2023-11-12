@@ -3,8 +3,6 @@
 
 ### نحوه نصب و راه اندازی
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. ابتدا پروژه را روی سیستم خود Clone کنید
    ```sh
    git clone https://github.com/msd0s/nobaan.git
