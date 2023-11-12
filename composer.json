@@ -1,0 +1,19 @@
+{
+    "name": "msd0s/nobaan",
+    "autoload": {
+        "psr-4": {
+            "caches\\": "caches/",
+            "configs\\": "configs/",
+            "controllers\\": "controllers/",
+            "databases\\": "databases/",
+            "routes\\": "routes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "saeed azaryan",
+            "email": "saeed.azaryan1993@gmail.com"
+        }
+    ],
+    "require": {}
+}
